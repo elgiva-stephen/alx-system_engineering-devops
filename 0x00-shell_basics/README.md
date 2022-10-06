@@ -9,3 +9,4 @@ Task 7. Move file betty from /tmp/
 Task 8. Delete file betty
 Task 9. Delete a directory
 Task 10. Changes working directory to previous one
+Task 11. List all files, including the ones hidden and in the /boot directory in long format
