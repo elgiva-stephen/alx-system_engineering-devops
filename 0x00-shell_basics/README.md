@@ -10,4 +10,5 @@ Task 8. Delete file betty
 Task 9. Delete a directory
 Task 10. Changes working directory to previous one
 Task 11. List all files, including the ones hidden and in the /boot directory in long format
-'Task 12. Write a script that prints a type of file named iamafile' \n
+Task 12. Write a script that prints a type of file named iamafile
+Task 13. Create symbolic link
