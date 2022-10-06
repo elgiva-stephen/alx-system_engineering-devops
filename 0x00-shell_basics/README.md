@@ -4,3 +4,4 @@ Task 2. Changes the working directory to user's home directory
 Task 3. Display current directory content in a long format
 Task 4. Display current directory content including hidden files
 Task 5. Display current directory content in long formt displayed numerically
+Task 6. Create a script that creates a directory in a /tmp/ directory
