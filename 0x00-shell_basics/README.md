@@ -8,3 +8,4 @@ Task 6. Create a script that creates a directory in a /tmp/ directory
 Task 7. Move file betty from /tmp/
 Task 8. Delete file betty
 Task 9. Delete a directory
+Task 10. Changes working directory to previous one
