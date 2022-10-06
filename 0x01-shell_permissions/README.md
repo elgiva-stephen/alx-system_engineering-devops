@@ -7,3 +7,5 @@ Task 2. Script that prints all groups current user is part of
 Task 3. Script changes owner of file 
 
 Task 4. Create empty file
+
+Task 5. Execute permission to owner of file
