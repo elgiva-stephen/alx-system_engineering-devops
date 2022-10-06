@@ -1,1 +1,1 @@
-0x00-shell_basics
+listit displays content list of current directory
