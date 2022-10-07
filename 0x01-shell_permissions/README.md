@@ -11,3 +11,5 @@ Task 4. Create empty file
 Task 5. Execute permission to owner of file
 
 Task 6. Execute permissions to owner and group owner and read permission to others
+
+Task 7. Execute permissions to owner, group owner and other users
