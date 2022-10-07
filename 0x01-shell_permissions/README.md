@@ -19,3 +19,5 @@ Task 8. Execute permissions to others except owner and group owner
 Task 9. Set mode of file to -rwxr-x-wx
 
 Task 10. Set mode of hello the same as olleh
+
+Task 11. Execute permissions to all subdirectories of current directory for owner, group owner and other users
