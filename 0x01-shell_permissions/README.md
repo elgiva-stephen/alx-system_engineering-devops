@@ -17,3 +17,5 @@ Task 7. Execute permissions to owner, group owner and other users
 Task 8. Execute permissions to others except owner and group owner
 
 Task 9. Set mode of file to -rwxr-x-wx
+
+Task 10. Set mode of hello the same as olleh
