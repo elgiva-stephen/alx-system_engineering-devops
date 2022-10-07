@@ -27,3 +27,5 @@ Task 12. Mkdir with permissions in working directory
 Task 13. Change group owner to school for file hello
 
 Task 14. Change owner and group owner for all files and directories in working directory
+
+Task 15. Script that changes owner and group owner of symbolic link
