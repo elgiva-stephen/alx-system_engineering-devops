@@ -13,3 +13,5 @@ Task 5. Execute permission to owner of file
 Task 6. Execute permissions to owner and group owner and read permission to others
 
 Task 7. Execute permissions to owner, group owner and other users
+
+Task 8. Execute permissions to others except owner and group owner
