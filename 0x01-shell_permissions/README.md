@@ -15,3 +15,5 @@ Task 6. Execute permissions to owner and group owner and read permission to othe
 Task 7. Execute permissions to owner, group owner and other users
 
 Task 8. Execute permissions to others except owner and group owner
+
+Task 9. Set mode of file to -rwxr-x-wx
