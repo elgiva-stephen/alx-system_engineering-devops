@@ -14,4 +14,5 @@ Task 6. Display third line of file iacta
 
 Task 7. Write shell script that creates exactly "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" in new line
 
+Task 8. A script that writes into the file ls_cwd_content the result of the command ls -la
 
