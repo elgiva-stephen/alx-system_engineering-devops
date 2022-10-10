@@ -8,4 +8,6 @@ Task 3. Display content of /etc/passwd /etc/hosts
 
 Task 4. Display last 10 lines of /etc/passwd
 
+Task 5. Display first 5 lines of /etc/passwd
+
 
