@@ -24,9 +24,9 @@ Task 11. Script that counts number of directories and sub directories in current
 
 Task 12. Script displays 10 newest files in current directory
 
-Task 13.
+Task 13. Script takes list of words as input and prints only words that appear once
 
-Task 14.
+Task 14. 
 
 Task 15.
 
