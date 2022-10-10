@@ -12,4 +12,6 @@ Task 5. Display first 5 lines of /etc/passwd
 
 Task 6. Display third line of file iacta
 
+Task 7. Write shell script that creates exactly "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" in new line
+
 
