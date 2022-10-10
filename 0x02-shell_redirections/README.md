@@ -26,9 +26,9 @@ Task 12. Script displays 10 newest files in current directory
 
 Task 13. Script takes list of words as input and prints only words that appear once
 
-Task 14. 
+Task 14. Display lines containing the pattern “root” from the file /etc/passwd 
 
-Task 15.
+Task 15. 
 
 Task 16.
 
