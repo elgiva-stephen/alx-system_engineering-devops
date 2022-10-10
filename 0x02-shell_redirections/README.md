@@ -28,9 +28,9 @@ Task 13. Script takes list of words as input and prints only words that appear o
 
 Task 14. Display lines containing the pattern “root” from the file /etc/passwd 
 
-Task 15. 
+Task 15. Display the number of lines that contain the pattern “bin” in the file /etc/passwd 
 
-Task 16.
+Task 16. 
 
 Task 17.
 
