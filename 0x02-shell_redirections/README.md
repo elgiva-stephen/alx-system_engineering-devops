@@ -4,4 +4,8 @@ Task 1. Script that displays confused smiley "(Ôo)'
 
 Task 2. Display content of /etc/passwd
 
+Task 3. Display content of /etc/passwd /etc/hosts
+
+Task 4. Display last 10 lines of /etc/passwd
+
 
