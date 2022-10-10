@@ -21,3 +21,25 @@ Task 9. Script that duplicates the last line of iacta
 Task 10. Delete all regular files with a .js extension
 
 Task 11. Script that counts number of directories and sub directories in current directory
+
+Task 12. Script displays 10 newest files in current directory
+
+Task 13.
+
+Task 14.
+
+Task 15.
+
+Task 16.
+
+Task 17.
+
+Task 18. 
+
+Task 19.
+
+Task 20. 
+
+Task 21.
+
+Task 22.
