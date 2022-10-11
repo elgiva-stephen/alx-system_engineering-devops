@@ -44,4 +44,6 @@ Task 21. Script that reverses its input
 
 Task 22. Script that displays all users and their home directories, sorted by users
 
-Task 
+Task 23. command that finds all empty files and directories in the current directory and all sub-directories
+
+Task 24.  
