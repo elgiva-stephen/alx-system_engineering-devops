@@ -38,8 +38,8 @@ Task 18. Display all lines of the file /etc/ssh/sshd_config starting with a lett
 
 Task 19. AZ replaces all characters A and c from input to Z and e respectively
 
-Task 20. 
+Task 20. Script removes all letters c and C from input 
 
-Task 21.
+Task 21. 
 
 Task 22.
