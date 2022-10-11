@@ -12,4 +12,6 @@ Task 5. Create a script that lists all local variables and environment variables
 
 Task 6. Create a script that creates a new local variable
 
-Task 7.     
+Task 7.reate a script that creates a new global variable
+
+Task 8. 
