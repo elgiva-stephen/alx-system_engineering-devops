@@ -28,4 +28,6 @@ Task 13. Write a script that prints a number with two decimal places, followed b
 
 Task 14. Write a script that converts a number from base 10 to base 16
 
-Task 15.   
+Task 15. Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII
+
+Task 16.    
