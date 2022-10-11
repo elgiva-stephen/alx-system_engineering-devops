@@ -46,4 +46,6 @@ Task 22. Script that displays all users and their home directories, sorted by us
 
 Task 23. command that finds all empty files and directories in the current directory and all sub-directories
 
-Task 24.  
+Task 24. Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories
+
+Task 25.   
